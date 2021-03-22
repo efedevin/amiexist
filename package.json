@@ -1,0 +1,20 @@
+{
+  "name": "amiexist",
+  "version": "1.0.0",
+  "description": "Am i exist?",
+  "main": "index.js",
+  "bin": "./src/amiexist.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/efedevin/amiexist.git"
+  },
+  "author": "efedevin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/efedevin/amiexist/issues"
+  },
+  "homepage": "https://github.com/efedevin/amiexist#readme"
+}
