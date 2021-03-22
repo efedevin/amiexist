@@ -1,6 +1,6 @@
 {
   "name": "amiexist",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Am i exist?",
   "main": "index.js",
   "bin": "./src/amiexist.js",
