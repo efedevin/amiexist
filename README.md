@@ -1,5 +1,5 @@
 Am i exist?
-Find it!
+Find it now!
 ```
 $npm i amiexist
 $amiexist
